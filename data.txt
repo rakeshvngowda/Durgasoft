@@ -1,0 +1,6 @@
+Variable scope
+
+1.Global scope
+2.Test suite scope
+3.Test case scope
+4.Local scope
